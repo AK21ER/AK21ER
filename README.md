@@ -22,12 +22,12 @@ Self-taught developer from Ethiopia passionate about building projects, learning
       <br>LinkedIn
     </td>
 
-    <td align="center" width="120">
-      <a href="https://t.me/ak21er" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" width="40"/>
-      </a>
-      <br>Telegram
-    </td>
+  <td align="center" width="120">
+  <a href="https://t.me/ak21er" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="40" width="40"/>
+  </a>
+  <div>Telegram</div>
+</td>
   </tr>
 </table>
 
